@@ -1,0 +1,20 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.odd {
+    background-color: #CCCCCC;
+}
+
+.even {
+    background-color: #FFFFFF;
+}
+
+.me {
+    background-color: #80FF80;
+}
